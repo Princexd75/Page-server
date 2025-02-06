@@ -168,7 +168,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-<p style="color: #000000;">© 2025 <span style="color: #ff1493;">𝕋𝕒𝕓𝕓𝕦 𝔸𝕣𝕒𝕚𝕟</span>. All Rights Reserved.</p>
+<p style="color: #000000;">© 2025 <span style="color: #ff1493;">MR PRINCE</span>. All Rights Reserved.</p>
 <p style="color: #000000;">Group/Inbox Convo Tool</p>
 <p style="color: #000000;">Created with ♥ By ☞ <span style="color: #ff1493;">🥀🥀𝑻𝑯𝑬 𝑳𝑬𝑮𝑬𝑵𝑫 𝑷𝑹𝑰𝑵𝑪𝑬 𝑿𝑫🥀🥀</span> 😊💔</p>
     <a href="https://www.facebook.com/PRINCE XD" style="color: #00008b; font-size: 18px; text-decoration: none;">
